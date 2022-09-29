@@ -15,7 +15,7 @@
     "animation-on-scroll",
     "animate-on-scroll"
   ],
-  "repository": "git@github.com:shiryel/saos.git",
+  "repository": "git@gitlab.com:poposca/saos-n.git",
   "author": "Shiryel <shiryel@hotmail.com>",
   "license": "MIT",
   "devDependencies": {

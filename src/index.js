@@ -1,3 +1,3 @@
 import Saos from './Saos.svelte';
 
-export default Saos;
+export { Saos as default };
