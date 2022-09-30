@@ -18,7 +18,7 @@
     "animate-on-scroll"
   ],
   "repository": "git@gitlab.com:poposca/saos-n.git",
-  "author": "Shiryel <shiryel@hotmail.com>",
+  "author": "Poposca <poposca@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^9.0.0",
