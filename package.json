@@ -1,9 +1,11 @@
 {
   "name": "saos",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Svelte Animation on Scroll",
+  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "svelte": "src/Saos.svelte",
   "scripts": {
     "build": "rollup -c"
